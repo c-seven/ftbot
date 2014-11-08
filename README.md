@@ -1,6 +1,6 @@
 # ftbot
 
-clojure製のtwitter,facebookボットサンプルアプリです。
+clojure & angularJs製のtwitter, facebookボットサンプルアプリです。
 refresh tokenの保存、投稿のスケジューリングが可能です。
 
 herokuリリース用のProcfile付き
